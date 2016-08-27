@@ -1,0 +1,27 @@
+{
+  "name": "com.plivo.sip",
+  "version": "1.7.1",
+  "description": "Plivo SIP Plugin",
+  "cordova": {
+    "id": "com.plivo.sip",
+    "platforms": [
+      "android"
+      
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalitk0/plivosip"
+  },
+  "keywords": [
+    "cordova",
+    "facebook",
+    "ecosystem:cordova",
+    "cordova-android",
+    
+    "facebook-sdk",
+    "social",
+    "sharing"
+  ],
+  "license": "Apache-2.0"
+}
