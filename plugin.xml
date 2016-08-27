@@ -37,6 +37,10 @@
         target-dir="src/com/plivo" />
         <source-file src="src/android/libs/plivoendpoint.jar"
         target-dir="libs" />
+        <source-file src="src/android/libs/armeabi/libplivo.so"
+        target-dir="libs/armeabi" />
+        <source-file src="src/android/libs/armeabi-v7a/libpjplivo.so"
+        target-dir="libs/armeabi-v7a" />
     </platform>
    
 </plugin>
